@@ -1,6 +1,6 @@
 # Sudoku Algorithm
 
-This is a refactored version of my sudoku algorithm that I completed during week 1, Phase 1 of Dev Bootcamp.  The algorithm uses Recursive Backtracking to solve very difficult boards.
+This is a refactored version of my sudoku algorithm that I completed during week 1, Phase 1 of Dev Bootcamp.  The algorithm uses *Recursive Backtracking* to solve very difficult boards.
 
 I have left comments to clarify what each method does within the Sudoku class.
 
